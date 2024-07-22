@@ -154,8 +154,6 @@ class Student(Users):
                 break
 
 
-# std=Student("hussien samy","123")
-# std.display_courses()
         
         
 
